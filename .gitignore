@@ -1,0 +1,35 @@
+# created by virtualenv automatically
+# Logs y directorios
+log/*.log
+logs/
+*.tmp
+
+# Directorios de sistema
+.DS_Store
+Thumbs.db
+
+# Directorio de node (si estás utilizando Node.js)
+node_modules/
+
+# Directorio para el entorno virtual de Python (si estás utilizando Python)
+venv/
+*.pyc
+
+
+# Archivos de IDEs y editores
+# Visual Studio Code
+.vscode/
+# IntelliJ IDEA / PyCharm
+.idea/
+# Eclipse
+.classpath
+.project
+.settings/
+
+# Archivos de sistema operativo
+*.swp
+*.swo
+
+# Archivos de build y distribución
+dist/
+build/
